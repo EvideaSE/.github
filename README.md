@@ -1,13 +1,21 @@
-# Evidea
+# Evidea · Organization & Documentation
 
-**Evidence. In context.**
+Welcome to Evidea's GitHub home.
 
-We're building more connected, transparent, and traceable ways to work with medical evidence — starting with maternity care.
+This repository contains our shared introductory documentation: who we are, what we're working on, and how people can follow and participate in our development.
 
-This is our home on GitHub, where we share our work as it develops.
+## Start here
 
-**More coming soon.**
+- **[About Evidea](profile/README.md)**  
+  A short introduction to our organization, also displayed on our [GitHub profile](https://github.com/EvideaSE).
 
-[About Open Source — A beginner's guide to GitHub, collaboration, and peer review](https://github.com/EvideaSE/.github/blob/main/open-source/README.md)
+- **[About Open Source](open-source/README.md)**  
+  A beginner-friendly introduction to GitHub, open development, collaboration, and peer review.
 
-[evidea.se](https://evidea.se) · [data.evidea.se](https://data.evidea.se)
+## Explore further
+
+Browse our [public repositories](https://github.com/orgs/EvideaSE/repositories) or visit [evidea.se](https://evidea.se) to learn more about the project.
+
+---
+
+*Documentation is a work in progress. We're building it as we go.*
